@@ -8,7 +8,7 @@
 ---
 
 ## 🔹 About
-NC24-weblink-bruteforce ist ein Skript zur Überprüfung der Erreichbarkeit einer URL. Es kann genutzt werden, um herauszufinden, ob eine Website blockiert oder offline ist.
+NC24-weblink-bruteforce ist ein Skript zur Überprüfung der Erreichbarkeit einer URL.
 
 ---
 
