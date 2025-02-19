@@ -1,4 +1,4 @@
-# NC24-weblink-bruteforce (checkwork Add-on)
+# NC24-weblink-bruteforce ( + checkwork Add-on)
 
 ## 📌 Developed by [Commit420](https://github.com/Commit420)
 
