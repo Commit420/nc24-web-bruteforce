@@ -32,7 +32,11 @@ NC24-weblink-bruteforce ist ein Skript zur Überprüfung der Erreichbarkeit eine
 ## 📌 Usage
 Führe das Skript mit Python aus:
 ```bash
-python script.py
+python nc24.py
+```
+
+```bash
+python checkwork.py
 ```
 Das Tool prüft automatisch die Erreichbarkeit der voreingestellten URL.
 
