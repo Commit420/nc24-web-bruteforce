@@ -15,7 +15,7 @@ from colorama import Fore, Style, init
 
 init(autoreset=True)
 
-url = "https://freeimage.host/i/2yU1dHx"
+url = "https://changemebecauseimnotfilehost.host/i/2yU1dHx"
 
 try:
     response = requests.get(url, timeout=10)
