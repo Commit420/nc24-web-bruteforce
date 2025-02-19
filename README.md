@@ -1,21 +1,43 @@
-# 🚀 NC24 Weblink Bruteforce  
+# NC24-weblink-bruteforce (checkwork Add-on)
 
-🔎 **Multithreaded-Skript zur zufälligen Generierung und Überprüfung von URL-Codes.**  
-📂 **Erreichbare Links werden automatisch in `list.txt` gespeichert.**  
+## 📌 Developed by [Commit420](https://github.com/Commit420)
 
----
-
-## 🔥 Features  
-✅ **Zufällige Code-Generierung** mit anpassbarer Länge  
-✅ **Multithreading** für schnelle URL-Überprüfung  
-✅ **Automatische Speicherung** erreichbarer Links  
-✅ **Farbige Statusmeldungen** mit `colorama`  
-✅ **Fehlermanagement & Timeout-Handling**  
+### ✅ Open-source & free to use for legal, experimental purposes.
+### ⚠️ Unauthorized or illegal use is strictly prohibited.
 
 ---
 
-## 📌 Installation & Nutzung  
+## 🔹 About
+NC24-weblink-bruteforce ist ein Add-on zur Überprüfung der Erreichbarkeit einer URL. Es kann genutzt werden, um herauszufinden, ob eine Website blockiert oder offline ist.
 
-1️⃣ **Abhängigkeiten installieren:**  
+---
+
+## 🚀 Features
+- 🛡️ Prüft, ob eine URL erreichbar ist
+- 🛠️ Nutzt `requests` für HTTP-Anfragen
+- 🎨 Farbige Konsolenausgabe mit `colorama`
+- ⏳ Timeout-Schutz gegen hängende Anfragen
+
+---
+
+## 🛠️ Installation
+1. Stelle sicher, dass Python installiert ist.
+2. Installiere die benötigten Abhängigkeiten:
+   ```bash
+   pip install requests colorama
+   ```
+
+---
+
+## 📌 Usage
+Führe das Skript mit Python aus:
 ```bash
-pip install requests colorama
+python script.py
+```
+Das Tool prüft automatisch die Erreichbarkeit der voreingestellten URL.
+
+---
+
+## 📝 License
+Dieses Projekt ist Open-Source und nur für legale, experimentelle Zwecke gedacht. Jede missbräuchliche Nutzung ist untersagt!
+
