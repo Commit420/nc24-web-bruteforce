@@ -23,6 +23,8 @@ NC24-weblink-bruteforce ist ein Skript zur Überprüfung der Erreichbarkeit eine
 ## 🛠️ Installation
 1. Stelle sicher, dass Python installiert ist.
 2. Installiere die benötigten Abhängigkeiten:
+
+3. 
    ```bash
    pip install requests colorama
    ```
